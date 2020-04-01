@@ -3,6 +3,3 @@ This is a critical message that I'm going to ammend into the previous commit alo
 CherryPickingActivity – commit #1
 
 CherryPickingActivity – commit #2
-
-CherryPickingActivity – commit #3
-CherryPickingActivity – commit #2
